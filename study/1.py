@@ -1,0 +1,6 @@
+print('hello world')
+print('123')
+print(9)
+print('hhhhh','嘻嘻嘻')
+print('hello',end=' ')
+print("你好")
