@@ -53,5 +53,11 @@ n -= 45
 print(n)
 #input()输入函数
 #prompt是提示，会在控制台显示
-name = input("输入姓名:")
-print(name)
+##print(name)
+#if基础语句练习
+age = 18
+if age >= 18:
+    print("可以上网")
+score = input("输入成绩:") #默认是int，所以数字也是字符串，需要打上引号，否则就会报错
+if score >= '60':
+    print("已及格")
